@@ -1,2 +1,0 @@
-C:\Users\merta\Desktop\OdevDagitim\OdevDagitim\obj\Debug\OdevDagitim.csproj.AssemblyReference.cache
-C:\Users\merta\Desktop\OdevDagitim\OdevDagitim\obj\Debug\OdevDagitim.csproj.CoreCompileInputs.cache
